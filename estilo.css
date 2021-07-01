@@ -1,0 +1,20 @@
+#titulo {
+    color: #ffff;
+    background-color: rgb(255,0,0);
+}
+
+.texto {
+    color: tomato;
+}
+
+#segundo, 
+.ref{
+    color: violet;
+    font-size: 20px;
+}
+
+ul li {
+    color: rgb(0, 255, 21);
+    font-weight: bolder;
+}
+
